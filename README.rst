@@ -1,4 +1,4 @@
-SeismoPI
+SeismoPi
 =============
 **Seismic Damage Assessment Tools for Buried Pipelines**
 
