@@ -2,8 +2,7 @@
    :scale: 100 %
    :alt: Logo
    
-The Water Network Tool for Resilience (WNTR) is an EPANET compatible Python package 
-designed to simulate and analyze resilience of water distribution networks.
+*SeismoPi* is a Seismic damage analysis tool for buried pipelines.
 
 .. toctree::
    :maxdepth: 1
@@ -18,12 +17,10 @@ designed to simulate and analyze resilience of water distribution networks.
 
   
 
-CWRU
---------------------------------
+Department of Civil Engineering, CWRU
+-------------------------------------
+This tool is developed by Dr. Yue Li research group
 
-Sandia National Laboratories is a multimission laboratory managed and operated by National Technology and 
-Engineering Solutions of Sandia, LLC., a wholly owned subsidiary of Honeywell International, Inc., for the 
-U.S. Department of Energy's National Nuclear Security Administration under contract DE-NA-0003525.
 
 Indices and tables
 ==================
