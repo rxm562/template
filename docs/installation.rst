@@ -2,6 +2,6 @@
 Installation
 ============
 
-Install the package with pip::
+Clone from Git:
 
-    $ pip install read-the-docs-template
+    $ https://github.com/rkmazumder/template
