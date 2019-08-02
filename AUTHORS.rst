@@ -1,3 +1,8 @@
+Disclaimer
+=========
+this work is in progress as a learning process by the author. This is work is not be lisenced yet. this program utilizes a number of python libraries and tools....
+under development...
+
 Authors
 -------
 This tool is developed by:
