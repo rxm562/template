@@ -1,7 +1,8 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Ram Mazumder
+* Abdullahi Salman
+* Yue Li
 
 
