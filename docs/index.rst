@@ -13,7 +13,6 @@
    Contributing
    SDATWI
    Usage
-   
 
 
 Indices and tables
