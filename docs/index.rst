@@ -4,9 +4,7 @@
    contain the root `toctree` directive.
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
-   
+   :maxdepth: 1   
    
    Authors
    Installation
