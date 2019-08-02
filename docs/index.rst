@@ -1,4 +1,4 @@
-.. figure:: figures/logo.png
+.. figure:: figures/SeismoPi.png
    :scale: 100 %
    :alt: Logo
    
