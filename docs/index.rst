@@ -16,8 +16,11 @@ Contents:
    Authors
    Installation
    Simulation Results
+   kya kare
+   Contributing
+   SDATWI
+   Usage
    
-
 
 
 Indices and tables
