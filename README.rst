@@ -9,16 +9,16 @@ Overview
 
 Dependency
 ----------
-networkx
-dolium
-scipy
-matplotlib
-numpy
-pandas
-fiona
-ipyleaflet
-pyproj
-os
+* networkx
+* dolium
+* scipy
+* matplotlib
+* numpy
+* pandas
+* fiona
+* ipyleaflet
+* pyproj
+* os
 
 
 
