@@ -14,10 +14,7 @@ Contents:
    Authors
    Installation
    Simulation Results
-
-
-
-   *
+   
 
 
 
