@@ -1,10 +1,13 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. figure:: figures/logo.png
+   :scale: 100 %
+   :alt: Logo
+   
+The Water Network Tool for Resilience (WNTR) is an EPANET compatible Python package 
+designed to simulate and analyze resilience of water distribution networks.
 
 .. toctree::
-   :maxdepth: 1   
+   :maxdepth: 1
+   
    
    Authors
    Installation
