@@ -10,10 +10,10 @@ designed to simulate and analyze resilience of water distribution networks.
 
    authors
    installation
-   Contributing
-   Module
+   contributing
+   module
    Usage
-   History
+   history
 
   
 
