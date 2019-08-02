@@ -11,10 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
    :glob:
-
-Authors
-Installation
-Simulation Results
+   Authors
+   Installation
+   Simulation Results
 
 
 
