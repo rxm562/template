@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'SeismoPi'
-copyright = u'2019, Read the Docs'
+copyright = u'2019, R K Mazumder'
 author = 'Ram K Mazumder'
 
 # The version info for the project you're documenting, acts as replacement for
