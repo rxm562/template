@@ -5,7 +5,7 @@
 Roughness Model
 ===============
 
-The roughness of pipelines increases with the increase in internal corrosion over time, which leads to a decrease in the roughness coefficient, C (Sharp and Walski 1988). Roughness coefficient depends on water quality, initial roughness, and pipe diameter (Sharp and Walski 1988)[Ref2]_.
+The roughness of pipelines increases with the increase in internal corrosion over time, which leads to a decrease in the roughness coefficient, C (Sharp and Walski 1988). Roughness coefficient depends on water quality, initial roughness, and pipe diameter (Sharp and Walski 1988)[REF2]_.
 
 Sharp and Walski 1988 Model
 ---------------------------
