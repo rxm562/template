@@ -35,7 +35,10 @@ The use of Pandas facilitates a comprehensive set of time series analysis option
 For more information on Pandas, see http://pandas.pydata.org/.
 
 Conceptually, DataFrames can be visualized as blocks of data with 2 axis, as shown in :numref:`fig-dataframe`.
- 
+
+Figure
+--------
+
 .. _fig-dataframe:
 .. figure:: figures/dataframes.png
    :scale: 100 %
