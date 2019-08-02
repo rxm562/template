@@ -43,9 +43,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'SeismoPy'
+project = u'SeismoPi'
 copyright = u'2019, Read the Docs'
-author = 'rkm'
+author = 'Ram K Mazumder'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
