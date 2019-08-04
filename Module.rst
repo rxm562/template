@@ -17,3 +17,6 @@ Sharp and Walski 1988 Model
    :scale: 100 %
    :alt: Logo
 
+
+.. doctest::
+    >>> roughness (C)=18.0-37.2Log R
