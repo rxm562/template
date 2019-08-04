@@ -21,7 +21,12 @@ Dependency
 * os
 
 
+Version Reslease
+-----------------
+* v 0.0.1 : August 3, 2019
 
-Version
----------
-* v 0.0.1 is under development....
+
+
+License
+-----------------
+The project is licensed under the MIT license.
