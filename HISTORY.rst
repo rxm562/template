@@ -16,3 +16,10 @@ Betweenness Centrality
 
 
    >>> pressure.to_excel('pressure.xlsx')
+
+
+
+Distance Calculation
+---------------------------
+.. doctest::   
+   >>> r, pga, pgv, pos = Distance.com_pga_dist(node,ex,ey,M)
