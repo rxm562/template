@@ -1,6 +1,6 @@
 About
 =============
-**Seismic Damage Assessment Tools for Buried Pipelines**
+**SeismoPi: Seismic Damage Assessment Tools for Buried Pipelines**
 
 Overview
 --------
@@ -24,7 +24,6 @@ Dependency
 Version Reslease
 -----------------
 * v 0.0.1 : August 3, 2019
-
 
 
 License
