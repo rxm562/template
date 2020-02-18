@@ -20,8 +20,6 @@ sd.fragility.ci module
     :undoc-members:
     :show-inheritance:
 
-
-
 Module contents
 ---------------
 
