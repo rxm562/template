@@ -6,6 +6,10 @@ Overview
 --------
 **SeismoPi** is a Python package that allows to develop scenario-based earthquake loss estimation for buried pipelines. This tool gives an interactive probable damage scenario for distributed buried pipeline infrastructures.
 
+SeismoPi is applied using Python version 3.7. It can be run on windows, mac environment. This tool depends on a number of python libraries, such as networkx, numpy. see :ref:`Dependency`.
+
+
+
 
 Dependency
 ----------
