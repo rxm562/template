@@ -3,7 +3,7 @@ sd.fragility package
 
 .. automodule:: sd.fragility
     :members:
-    :no-undoc-members:
+    :undoc-members:
     :show-inheritance:
 
 Submodules
