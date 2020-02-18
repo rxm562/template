@@ -5,7 +5,7 @@
 *SeismoPi* is a Seismic damage analysis tool for buried pipelines.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    authors
    installation
