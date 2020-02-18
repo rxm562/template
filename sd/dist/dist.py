@@ -1,5 +1,5 @@
 """
-This file to estimate distances between various points
+The sd.dist module includes file to estimate distances between various points
 """
 
 import numpy as np
