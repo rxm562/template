@@ -14,7 +14,7 @@
    Usage
    history
    readme
-   API documentation <apidoc/sd>
+   API documentation <apidocs/sd>
    reference
 
   
