@@ -8,8 +8,11 @@ Overview
 
 SeismoPi is applied using Python version 3.7. It can be run on windows, mac environment. This tool depends on a number of python libraries, such as networkx, numpy. see :ref:`Dependency`.
 
+To install SeismoPy, copy from github:
 
+.. code-block:: console
 
+    $ https://github.com/rkmazumder/template
 
 Dependency
 ----------
