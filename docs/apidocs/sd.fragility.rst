@@ -4,10 +4,10 @@ sd.fragility package
 Submodules
 ----------
 
-sd.fragility.PFragility module
+sd.fragility.fragility module
 ----------------------------
 
-.. automodule:: sd.fragility.PFragility
+.. automodule:: sd.fragility.fragility
     :members:
     :undoc-members:
     :show-inheritance:
