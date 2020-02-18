@@ -7,7 +7,7 @@ Submodules
 sd.fragility.PFragility module
 ----------------------------
 
-.. automodule:: sd.fragility.PFragility.py
+.. automodule:: sd.fragility.PFragility
     :members:
     :undoc-members:
     :show-inheritance:
