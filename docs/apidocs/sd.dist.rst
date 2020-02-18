@@ -1,14 +1,22 @@
 sd.dist package
-======================
-
-.. automodule:: sd.dist
-    :members:
-    :no-undoc-members:
-    :show-inheritance:
+=====================
 
 Submodules
 ----------
 
-.. toctree::
+sd.dist.dist module
+----------------------------
 
-   sd.dist.dist
+.. automodule:: tsnet.network.control
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: sd.dist
+    :members:
+    :undoc-members:
+    :show-inheritance:
