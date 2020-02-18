@@ -1,22 +1,14 @@
 sd.dist package
-=====================
+======================
+
+.. automodule:: sd.dist
+    :members:
+    :no-undoc-members:
+    :show-inheritance:
 
 Submodules
 ----------
 
-sd.dist.dist module
-----------------------------
+.. toctree::
 
-.. automodule:: sd.dist.dist
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
-Module contents
----------------
-
-.. automodule:: sd.dist
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   sd.dist.dist
