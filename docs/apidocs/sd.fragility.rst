@@ -12,10 +12,10 @@ sd.fragility.frag module
     :undoc-members:
     :show-inheritance:
 
-sd.fragility.ci module
+sd.fragility.cf module
 ----------------------------
 
-.. automodule:: sd.fragility.ci
+.. automodule:: sd.fragility.cf
     :members:
     :undoc-members:
     :show-inheritance:
