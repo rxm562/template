@@ -1,5 +1,5 @@
 """
-This file to for correction factor
+This sd.fragility.cf file to for correction factor
 """
 
 import numpy as np
