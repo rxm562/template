@@ -1,23 +1,17 @@
 sd package
 =====================
+Subpackages
+-----------
 
-Submodules
-----------
+.. toctree::
 
-sd.PFragility module
-----------------------------
-
-.. automodule:: sd.PFragility
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
+    sd.fragility
+    sd.dist
 
 Module contents
 ---------------
 
-.. automodule:: sd.PFragility
+.. automodule:: sd
     :members:
     :undoc-members:
     :show-inheritance:
