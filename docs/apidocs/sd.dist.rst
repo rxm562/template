@@ -7,7 +7,7 @@ Submodules
 sd.dist.dist module
 ----------------------------
 
-.. automodule:: tsnet.network.control
+.. automodule:: sd.dist.dist
     :members:
     :undoc-members:
     :show-inheritance:
