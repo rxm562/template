@@ -1,5 +1,5 @@
 """
-The sd.fragility.PFragility module file to define Fragility Curves
+The sd.fragility.fragility module includes file to define Fragility Curves
 """
 
 import numpy as np
