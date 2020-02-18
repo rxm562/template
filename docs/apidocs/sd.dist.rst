@@ -4,10 +4,10 @@ sd.dist package
 Submodules
 ----------
 
-sd.dist.dist module
+sd.dist.distance module
 ----------------------------
 
-.. automodule:: sd.dist.dist
+.. automodule:: sd.dist.distance
     :members:
     :undoc-members:
     :show-inheritance:
