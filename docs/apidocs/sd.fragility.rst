@@ -25,7 +25,7 @@ sd.fragility.ci module
 Module contents
 ---------------
 
-.. automodule:: sd.dist
+.. automodule:: sd.fragility
     :members:
     :undoc-members:
     :show-inheritance:
