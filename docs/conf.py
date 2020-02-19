@@ -21,7 +21,7 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../'))
-import tsnet
+import sd
 import shlex
 import sphinx_rtd_theme
 # -- General configuration ---------------------------------------------
@@ -82,9 +82,9 @@ source_suffix = '.rst'
 master_doc = 'content'
 
 # General information about the project.
-project = u'TSNet'
-copyright = u"2019, Lu Xing"
-author = u"Lu Xing, Lina Sela"
+project = u'sd'
+copyright = u"2019, rkm"
+author = u"rkm"
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
@@ -169,11 +169,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass
 # [howto, manual, or own class]).
-latex_documents = [
-    (master_doc, 'TSNet.tex',
-     u'TSNet Documentation',
-     u"Lu Xing, Lina Sela", 'manual'),
-]
+
 
 # latex_logo = 'figures/highlight.png'
 
@@ -182,8 +178,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'TSNet',
-     u'TSNet Documentation',
+    (master_doc, 'sd',
+     u'sd Documentation',
      [author], 1)
 ]
 
@@ -194,10 +190,10 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'TSNet',
-     u'TSNet Documentation',
+    (master_doc, 'sd',
+     u'sd Documentation',
      author,
-     'TSNet',
+     'sd',
      'One line description of project.',
      'Miscellaneous'),
 ]
