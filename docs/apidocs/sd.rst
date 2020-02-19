@@ -1,19 +1,19 @@
-.. _api_documentation:
-
-API documentation
-===================
-
-.. automodule:: sd
-    :members:
-    :no-undoc-members:
-    :show-inheritance:
+sd package
+=============
 
 Subpackages
 -----------
 
 .. toctree::
-    :maxdepth: 1
-    
+
     sd.fragility
     sd.dist
 
+
+Module contents
+---------------
+
+.. automodule:: sd
+    :members:
+    :undoc-members:
+    :show-inheritance:
