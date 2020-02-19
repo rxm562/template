@@ -33,6 +33,9 @@ extensions = []
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
+import glob
+autosummary_generate = glob.glob("apidoc/*.rst")
+
 # The suffix of source filenames.
 source_suffix = '.rst'
 
