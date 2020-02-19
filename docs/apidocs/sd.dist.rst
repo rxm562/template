@@ -1,7 +1,7 @@
-sd.fragility package
+sd.dist package
 ================
 
-.. automodule:: sd.fragility
+.. automodule:: sd.dist
     :members:
     :no-undoc-members:
     :show-inheritance:
@@ -11,6 +11,4 @@ Submodules
 
 .. toctree::
 
-   sd.fragility.frag
-   sd.fragility.cf
-
+   sd.dist.distance
