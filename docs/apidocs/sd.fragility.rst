@@ -1,16 +1,22 @@
 sd.fragility package
-================
-
-.. automodule:: sd.fragility
-    :members:
-    :no-undoc-members:
-    :show-inheritance:
+=====================
 
 Submodules
 ----------
 
-.. toctree::
+sd.fragility.frag module
+-----------------------------
 
-   sd.fragility.frag
-   sd.fragility.cf
+.. automodule:: sd.fragility.frag
+    :members:
+    :undoc-members:
+    :show-inheritance:
 
+
+Module contents
+---------------
+
+.. automodule:: sd.fragility
+    :members:
+    :undoc-members:
+    :show-inheritance:
