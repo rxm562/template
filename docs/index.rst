@@ -10,7 +10,6 @@
    authors
    installation
    contributing
-   module
    Usage
    history
    readme
