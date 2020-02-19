@@ -79,7 +79,7 @@ autosummary_generate = glob.glob("apidocs/*.rst")
 source_suffix = '.rst'
 
 # The master toctree document.
-master_doc = 'content'
+master_doc = 'index'
 
 # General information about the project.
 project = u'sd'
@@ -143,7 +143,7 @@ html_show_sphinx = False
 # -- Options for HTMLHelp output ---------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'tsnetdoc'
+htmlhelp_basename = 'sddoc'
 
 
 # -- Options for LaTeX output ------------------------------------------
