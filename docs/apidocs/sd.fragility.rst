@@ -11,6 +11,14 @@ sd.fragility.frag module
     :members:
     :undoc-members:
     :show-inheritance:
+    
+sd.fragility.cf module
+-----------------------------
+
+.. automodule:: sd.fragility.cf
+    :members:
+    :undoc-members:
+    :show-inheritance:
 
 
 Module contents
