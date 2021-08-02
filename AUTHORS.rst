@@ -1,10 +1,15 @@
 Overview
 =========
 
-Urban Community Hurricane Risk Analysis: A Scenario-based Approach
+Thesis title: Risk-Based Performance Assessment and Decision Making Tools for Water Distribution Systems
+
 
 Authors
 -------
-Ram K. Mazumder , S. Amin Enderami , and Elaina J. Sutley 
+This tool is developed, as a part of doctoral study of Ram K. Mazumder, Department of Civil Engineering, Case Western Reserve University, Cleveland, OH.
 
-* contact: Email: rkmazumder@ku.edu
+Thesis title: Risk-Based Performance Assessment and Decision Making Tools for Water Distribution Systems
+
+Advisor: Dr. Yue Li, Professor of Structural Engineering, Department of Civil Engineering, Case Western Reserve University, Cleveland, OH
+
+* contact: Email: rxm562@case.edu
