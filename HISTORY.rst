@@ -23,3 +23,35 @@ Distance Calculation
 ---------------------------
 .. doctest::   
    >>> r, pga, pgv, pos = Distance.com_pga_dist(node,ex,ey,M)
+   
+   
+   
+   
+   
+====================
+Demo: Example Application
+====================
+
+.. _SeismoPi:
+.. figure:: figures/network1.png
+   :scale: 100 %
+   :alt: SeismoPi
+
+
+1.  Import SeismoPi dependencies, random seed and read nodes and pipes characteristics, and create model object.
+
+.. literalinclude:: ../Examples/SeismoPi_ex1.py
+    :lines: 1-20
+    
+    
+2.  Define earthquakes
+
+.. literalinclude:: ../Examples/SeismoPi_ex1.py
+    :lines: 22-33
+    
+    
+3.  Create Models and PGA estimates
+
+.. literalinclude:: ../Examples/SeismoPi_ex1.py
+    :lines: 35-102
+    
