@@ -2,8 +2,8 @@
 
 """Top-level package for sd."""
 
-from sd import fragility
-from sd import dist
+from SeismoPi import fragility
+from SeismoPi import dist
 
 __author__ = """Ram Mazumder"""
 __email__ = 'rxm562@case.edu'
