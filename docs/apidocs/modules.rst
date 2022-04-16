@@ -1,7 +1,7 @@
-sd
+SeismoPi
 =====
 
 .. toctree::
    :maxdepth: 4
 
-   sd
+   SeismoPi
