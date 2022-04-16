@@ -1,13 +1,13 @@
-sd.fragility package
+SeismoPi.fragility package
 =====================
 
 Submodules
 ----------
 
-sd.fragility.frag module
+SeismoPi.fragility.frag module
 -----------------------------
 
-.. automodule:: sd.fragility.frag
+.. automodule:: SeismoPi.fragility.frag
     :members:
     :undoc-members:
     :show-inheritance:
@@ -15,7 +15,7 @@ sd.fragility.frag module
 sd.fragility.cf module
 -----------------------------
 
-.. automodule:: sd.fragility.cf
+.. automodule:: SeismoPi.fragility.cf
     :members:
     :undoc-members:
     :show-inheritance:
@@ -24,7 +24,7 @@ sd.fragility.cf module
 Module contents
 ---------------
 
-.. automodule:: sd.fragility
+.. automodule:: SeismoPi.fragility
     :members:
     :undoc-members:
     :show-inheritance:
