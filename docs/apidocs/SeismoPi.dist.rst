@@ -1,13 +1,13 @@
-sd.dist package
+SeismoPi.dist package
 =====================
 
 Submodules
 ----------
 
-sd.dist.distance module
+SeismoPi.dist.distance module
 ----------------------------
 
-.. automodule:: sd.dist.distance
+.. automodule:: SeismoPi.dist.distance
     :members:
     :undoc-members:
     :show-inheritance:
@@ -16,7 +16,7 @@ sd.dist.distance module
 Module contents
 ---------------
 
-.. automodule:: sd.dist
+.. automodule:: SeismoPi.dist
     :members:
     :undoc-members:
     :show-inheritance:
