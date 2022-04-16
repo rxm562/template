@@ -12,7 +12,7 @@ SeismoPi.fragility.frag module
     :undoc-members:
     :show-inheritance:
     
-sd.fragility.cf module
+SeismoPi.fragility.cf module
 -----------------------------
 
 .. automodule:: SeismoPi.fragility.cf
