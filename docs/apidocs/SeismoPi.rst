@@ -1,4 +1,4 @@
-sd package
+SeismoPi package
 =============
 
 Subpackages
@@ -6,14 +6,14 @@ Subpackages
 
 .. toctree::
 
-    sd.fragility
-    sd.dist
+    SeismoPi.fragility
+    SeismoPi.dist
 
 
 Module contents
 ---------------
 
-.. automodule:: sd
+.. automodule:: SeismoPi
     :members:
     :undoc-members:
     :show-inheritance:
