@@ -1,3 +1,7 @@
+===============
+SeismoPi
+===============
+
 .. figure:: figures/SeismoPi.png
    :scale: 100 %
    :alt: Logo
@@ -20,7 +24,7 @@
 
 Department of Civil Engineering, CWRU
 -------------------------------------
-This tool is developed by Dr. Yue Li research group
+This tool is developed by Ram Krishna Mazumder as a part of his doctoral research, advised by Dr. Yue Li at Case Western Reserve University.
 
 
 Indices and tables
