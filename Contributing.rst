@@ -20,7 +20,7 @@ Scenario-based seismic risk evaluation requires the evaluation of seismic intens
 GMPE proposed by Kawashima et al. (1984) and Yu and Jin (2008) are used for estimating PGA and PGV intensities. Following GMPE computes PGA (:math:`PGA`) based on Earthquake Magnitude (:math:`M`) and distance from epicenter (:math:`R`) in km, as follows:
 
 .. math::
-    PGA = 403 10^{0.265M}*{(R+30)^1.218}
+    PGA = 403 10^{0.265M}(R+30)^{1.218}
 
 
 Fragility Analysis
