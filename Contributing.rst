@@ -7,10 +7,21 @@ Estimating Seismic Damage
 -------------------------
 .. _flowchart:
 .. figure:: figures/SeismoPi_Framework.png
-   :width: 400
+   :width: 500
    :alt: flowchart
 
    Framework of seismic damage and cost analysis in SeismoPi
+
+
+Seismic Intensity Estimation
+-------------------------
+Scenario-based seismic risk evaluation requires the evaluation of seismic intensity at a site given an earthquake characteristics. The seismic intensity at a site is estimated by utilizing ground-motion prediction equations (aka attenuation laws) for which earthquake characteristics (e.g., magnitude, epicenter location, and depth) are required. GMPEs are often developed by analyzing ground-motion records of a particular earthquake and are typically applicable for specific geologic conditions. GMPEs are used to estimate seismic intensities at sites.
+
+GMPE proposed by Kawashima et al. (1984) and Yu and Jin (2008) are used for estimating PGA and PGV intensities. Following GMPE computes PGA (:math:`PGA`) based on Earthquake Magnitude (:math:`M`) and distance from epicenter (:math:`R`) in km, as follows:
+
+.. math::
+    PGA = 403 10^{0.265M}*{(R+30)^1.218}
+
 
 Corrosion Modelling
 -------------------------
