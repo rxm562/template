@@ -14,6 +14,7 @@ SeismoPi
    authors
    installation
    contributing
+   illustration
    Usage
    history
    readme
