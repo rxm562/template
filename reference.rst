@@ -11,3 +11,5 @@ References
 .. [REF03] Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2019) “Reliability Analysis of Water Distribution Systems using Physical Probabilistic Pipe Failure Method”, ASCE Journal of Water Resource Planning and Management https://ascelibrary.org/doi/full/10.1061/%28ASCE%29WR.1943-5452.0001034
 
 .. [REF04] Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “State-of- the-Art Review: Peformance Evaluation of Water Distribution Systems and Asset Management,” ASCE Journal of Infrastructure Systems https://ascelibrary.org/doi/full/10.1061/%28ASCE%29IS.1943-555X.0000426
+
+.. [REF05] Mazumder, R. K., Salman, A. M., Li, Y., & Yu, X. (2021). Asset management decision support model for water distribution systems: impact of water pipe failure on road and water networks. Journal of Water Resources Planning and Management, 147(5), 04021022. https://doi.org/10.1061/(ASCE)WR.1943-5452.0001365
